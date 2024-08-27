@@ -1,0 +1,19 @@
+# git
+.git/
+.gitignore
+README.md
+LICENSE
+
+# docker
+.docker
+
+# py
+.env/
+.venv/
+venv/
+pyenv/
+env/
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
